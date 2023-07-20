@@ -1,1 +1,0 @@
-# AsteriscTechnocrat_Internship
