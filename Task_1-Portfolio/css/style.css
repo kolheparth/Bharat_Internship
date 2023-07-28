@@ -294,6 +294,7 @@ h3.hello span {
 h3.my-profession {
     font-size: 30px;
     margin: 15px 0;
+    
 }
 
 .typing {
@@ -368,6 +369,7 @@ h3.my-profession {
     font-size: 18px;
     line-height: 25px;
     color: var(--text-black-900);
+    text-align: justify;
 }
 
 
